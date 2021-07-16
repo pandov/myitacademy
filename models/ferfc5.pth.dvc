@@ -1,0 +1,7 @@
+md5: 8259dd59d3fa900107a7c862649b3641
+outs:
+- md5: 23795a54dbca06b800df20af68a76b0c
+  path: ferfc5.pth
+  cache: true
+  metric: false
+  persist: false

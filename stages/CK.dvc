@@ -1,0 +1,8 @@
+md5: 4f9b59dd7d6dbce94299df67605eeb09
+wdir: ../data/external
+outs:
+- md5: de214a4996944cd4a73163fd519ad2ba
+  path: CK.zip
+  cache: true
+  metric: false
+  persist: false

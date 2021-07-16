@@ -1,0 +1,8 @@
+md5: a7d8e3c02f7e1d19bb083397ad1d96c1
+wdir: ..
+outs:
+- md5: b35cbd67e1aa5e5198a853531c08a2c0
+  path: logs/FERCNN5.zip
+  cache: true
+  metric: false
+  persist: false

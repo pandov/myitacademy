@@ -1,0 +1,16 @@
+cmd: python -m src.features.generate --FER --num_classes 7
+wdir: ..
+deps:
+- path: data/external/CK.zip
+  md5: de214a4996944cd4a73163fd519ad2ba
+- path: data/external/JAFFE.zip
+  md5: 3e050a5b95b7d51128a449be7da999a0
+- path: data/external/FER2013.zip
+  md5: b459dc630bd059cee36c91c8df1651e4
+outs:
+- path: data/processed/FER7
+  cache: false
+  metric: false
+  persist: true
+  md5: e7338aade91e599b4d31941ad69e2cda.dir
+md5: 936fde18d25056f10918f445f43cdf12

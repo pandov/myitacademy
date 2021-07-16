@@ -1,0 +1,6 @@
+[cache]
+    slow_link_warning = false
+[core]
+    remote = googledrive
+['remote "googledrive"']
+    url = gdrive://.../dvcstore

@@ -1,0 +1,18 @@
+md5: ce82c0288dc682d64c0cf5bf938dbc22
+cmd: python -m src.features.generate --BIOMETRY --num_classes 6
+wdir: ..
+deps:
+- path: models/shape_predictor_68_face_landmarks.dat
+  md5: 73fde5e05226548677a050913eed4e04
+- path: models/fmdepthrnn.pth
+  md5: 3bb14c50f2b277e43f63027311cf67b7
+- path: data/external/CK.zip
+  md5: de214a4996944cd4a73163fd519ad2ba
+- path: data/external/JAFFE.zip
+  md5: 3e050a5b95b7d51128a449be7da999a0
+outs:
+- path: data/processed/BIOMETRY6
+  cache: false
+  metric: false
+  persist: true
+  md5: 9948b7769d58bba5f49ee9d8e5c4ead6.dir

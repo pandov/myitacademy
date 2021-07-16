@@ -1,0 +1,8 @@
+md5: 9a309d1d4460fd077e3ce73990163efc
+wdir: ../data/external
+outs:
+- md5: b459dc630bd059cee36c91c8df1651e4
+  path: FER2013.zip
+  cache: true
+  metric: false
+  persist: false

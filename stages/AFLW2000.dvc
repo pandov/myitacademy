@@ -1,0 +1,8 @@
+md5: 150bb18858ccf30beb8f8383e8c8bc26
+wdir: ../data/external
+outs:
+- md5: fe2e92c74ad1cc72ac37a63cc77914af
+  path: AFLW2000.zip
+  cache: true
+  metric: false
+  persist: false
