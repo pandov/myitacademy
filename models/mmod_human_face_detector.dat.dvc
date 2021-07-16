@@ -1,7 +1,0 @@
-md5: d1ccf51c81d931663b602be2dbd33c15
-outs:
-- md5: 8d2d36a0ab9adb57f4a866252fd9f047
-  path: mmod_human_face_detector.dat
-  cache: true
-  metric: false
-  persist: false

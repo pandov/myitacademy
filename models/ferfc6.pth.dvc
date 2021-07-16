@@ -1,7 +1,0 @@
-md5: 40b6d41a70d548cea7c7ea6737dbb03a
-outs:
-- md5: cda0960fd93b5bda57a39593a28fcebf
-  path: ferfc6.pth
-  cache: true
-  metric: false
-  persist: false

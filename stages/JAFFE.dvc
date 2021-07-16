@@ -1,8 +1,0 @@
-md5: a6b81ac92b1bc2a8035d86ca02f216ec
-wdir: ../data/external
-outs:
-- md5: 3e050a5b95b7d51128a449be7da999a0
-  path: JAFFE.zip
-  cache: true
-  metric: false
-  persist: false

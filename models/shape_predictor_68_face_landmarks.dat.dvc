@@ -1,7 +1,0 @@
-md5: d5dcb973d048ae815dd873de8fb1842b
-outs:
-- md5: 73fde5e05226548677a050913eed4e04
-  path: shape_predictor_68_face_landmarks.dat
-  cache: true
-  metric: false
-  persist: false

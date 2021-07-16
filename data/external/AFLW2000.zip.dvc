@@ -1,0 +1,7 @@
+md5: 20e1f73193e256f92da834022023d701
+outs:
+- md5: 36caad20f2a01e5c9198d5532c81fa07
+  path: AFLW2000.zip
+  cache: true
+  metric: false
+  persist: false

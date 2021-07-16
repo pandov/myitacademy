@@ -1,12 +1,12 @@
-alchemy==20.5
-catalyst==20.5
-dlib==19.19.0
-dvc==0.94.0
-flask==1.0.3
-jupyter==1.0.0
-pandas==1.0.3
-pathlib==1.0.1
+catalyst==20.7
+# dlib==19.19.0
+dvc==0.93.0
+# numpy==1.18.2
+# pandas==1.0.5
+# pathlib==1.0.1
 PyDrive2==1.4.9
-tensorboard==2.2.0
-tensorflow==2.2.0
-tqdm==4.45.0
+# scipy==1.4.1
+# tensorboard==2.2.0
+# tensorflow==2.2.0
+# torch===1.6.0
+# torchvision===0.7.0

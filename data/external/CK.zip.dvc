@@ -1,0 +1,7 @@
+md5: a3ce2815925e16b099371a83e71dc494
+outs:
+- md5: 78e9e9d427e03cfda7195faa6b58c254
+  path: CK.zip
+  cache: true
+  metric: false
+  persist: false

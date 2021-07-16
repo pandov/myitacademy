@@ -1,0 +1,7 @@
+md5: 2c4be9126de30e25d7af1ee749c18603
+outs:
+- md5: fe229c6210bf8a2ffe6018ace4543e86
+  path: JAFFE.zip
+  cache: true
+  metric: false
+  persist: false

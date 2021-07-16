@@ -1,0 +1,29 @@
+md5: 20c8449e19c7f42af9ca49298e017ebb
+cmd: python -m src.data.features.generator2 --num_workers 8
+wdir: ../..
+deps:
+- md5: e6902ee62ac6c883d5448112d8f65606
+  path: data/models/fmdepthrnn.pth
+- md5: 8d2d36a0ab9adb57f4a866252fd9f047
+  path: data/models/mmod_human_face_detector.dat
+- md5: 73fde5e05226548677a050913eed4e04
+  path: data/models/shape_predictor_68_face_landmarks.dat
+- md5: 78e9e9d427e03cfda7195faa6b58c254
+  path: data/external/CK.zip
+- md5: fe229c6210bf8a2ffe6018ace4543e86
+  path: data/external/JAFFE.zip
+- md5: ec406cfe1a3d0d8debabcbc12dc98aab
+  path: data/external/RAF-DB.zip
+- md5: f7616c506158c143c52516e73b80ed04
+  path: data/external/FER2013.csv.zip
+outs:
+- md5: d751713988987e9331980363e24189ce.dir
+  path: data/processed/FER
+  cache: false
+  metric: false
+  persist: false
+- md5: d751713988987e9331980363e24189ce.dir
+  path: data/processed/BIOMETR
+  cache: false
+  metric: false
+  persist: false

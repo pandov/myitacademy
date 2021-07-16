@@ -1,9 +1,5 @@
-.DS_Store
-colab.sh
-sample_data/
-.config/
-.tmp/
-tg/cache
+.vscode/
+.sh/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

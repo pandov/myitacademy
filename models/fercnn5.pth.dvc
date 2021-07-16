@@ -1,7 +1,0 @@
-md5: c65d5c4882246717926828c05a71d08c
-outs:
-- md5: 8aa4eab6afe42842a1829d9d3fa79fa3
-  path: fercnn5.pth
-  cache: true
-  metric: false
-  persist: false

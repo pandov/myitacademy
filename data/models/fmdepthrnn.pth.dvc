@@ -1,0 +1,7 @@
+md5: 8a1025fef28af3d3b51868633d72c91b
+outs:
+- md5: e6902ee62ac6c883d5448112d8f65606
+  path: fmdepthrnn.pth
+  cache: true
+  metric: false
+  persist: false

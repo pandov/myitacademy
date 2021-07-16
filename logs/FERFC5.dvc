@@ -1,8 +1,0 @@
-md5: 03a4d14d68323c819547efc20f926ee3
-wdir: ..
-outs:
-- md5: 061bc8b72901242be0e9bb32b0899bcc
-  path: logs/FERFC5.zip
-  cache: true
-  metric: false
-  persist: false

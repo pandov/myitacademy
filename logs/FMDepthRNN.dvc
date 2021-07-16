@@ -1,8 +1,0 @@
-md5: 7693d0ae81e20d763b5ff5f97bc4445c
-wdir: ..
-outs:
-- md5: b8e3086435b10ea6c59f16e0c856d8b0
-  path: logs/FMDepthRNN.zip
-  cache: true
-  metric: false
-  persist: false

@@ -1,0 +1,7 @@
+md5: 0b0c573b2372cddf572cc13b4666a7bb
+outs:
+- md5: f7616c506158c143c52516e73b80ed04
+  path: FER2013.csv.zip
+  cache: true
+  metric: false
+  persist: false

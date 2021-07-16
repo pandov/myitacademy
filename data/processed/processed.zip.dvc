@@ -1,0 +1,7 @@
+md5: 1af3ed6619c826ee8980cb1deeed65e2
+outs:
+- md5: f8cfd896adcbffdee241178fb6a8907e
+  path: processed.zip
+  cache: true
+  metric: false
+  persist: false
